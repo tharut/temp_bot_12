@@ -71,6 +71,11 @@
             "required": false,
             "value": "alive"
         },
+        "COMMAND_LIST_MSG": {
+            "description": "Customizable COMMAND LIST Message type a message to show in command list menu.",
+            "required": false,
+            "value": "\n‎‎  *✎෴ Cᴏᴍᴍᴀɴᴅ Mᴇɴᴜ 🔱*\n╭─────────────────────╮\n│\n│• logomaker\n│• profile\n│• admin\n│• spam\n│• e-media\n│• deep-ai\n│• search\n│• random\n│• downloader\n│• fun\n│• extra\n│\n│ _> Cʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ;)_\n│\n╰─────────•◈•─────────╯"
+        },
         "ALIVE_PIC": {
             "description": "Customizable ALIVE PICTURE Photo! Type a link of image. Type pp if you want to send your profile picture",
             "required": false,
